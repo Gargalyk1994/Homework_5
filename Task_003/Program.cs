@@ -3,7 +3,7 @@
 [3 7 22 2 78] -> 76*/
 
 
-double[] GetArray(int size, int minValue, int maxValue)
+double[] GetArray(int size, int minValue, int maxValue)// Кирилл подскажите: не могу эти переменые поставить в тип double. Почему?
 {
     double[] res = new double[size];
 

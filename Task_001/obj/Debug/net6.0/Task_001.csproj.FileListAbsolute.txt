@@ -1,0 +1,15 @@
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\bin\Debug\net6.0\Task_001.exe
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\bin\Debug\net6.0\Task_001.deps.json
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\bin\Debug\net6.0\Task_001.runtimeconfig.json
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\bin\Debug\net6.0\Task_001.dll
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\bin\Debug\net6.0\Task_001.pdb
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.csproj.AssemblyReference.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.AssemblyInfoInputs.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.AssemblyInfo.cs
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.csproj.CoreCompileInputs.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.dll
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\refint\Task_001.dll
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.pdb
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\Task_001.genruntimeconfig.cache
+C:\Users\garga\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками программирования\Дз 5\Task_001\obj\Debug\net6.0\ref\Task_001.dll
